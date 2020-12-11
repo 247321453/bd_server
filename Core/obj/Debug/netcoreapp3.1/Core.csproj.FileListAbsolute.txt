@@ -1,0 +1,8 @@
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Core\obj\Debug\netcoreapp3.1\Core.pdb

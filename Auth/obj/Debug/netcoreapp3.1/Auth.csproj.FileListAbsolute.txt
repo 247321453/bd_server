@@ -1,0 +1,16 @@
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfoInputs.cache
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.AssemblyInfo.cs
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.CoreCompileInputs.cache
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.csprojAssemblyReference.cache
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Auth.exe
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Auth.deps.json
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Auth.runtimeconfig.json
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Auth.runtimeconfig.dev.json
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Auth.pdb
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.csproj.CopyComplete
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.dll
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.pdb
+C:\Users\Irbos\source\repos\BlackDesertRemaster\Auth\obj\Debug\netcoreapp3.1\Auth.genruntimeconfig.cache
